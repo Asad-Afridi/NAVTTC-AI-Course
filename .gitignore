@@ -1,0 +1,16 @@
+*.ppt
+*.pptx
+*.pyc
+.tmp.*
+.pth
+.docx
+.zip
+
+__pycache__/
+.vscode/
+datasets/
+MidTerm/
+data/
+Exam/
+
+choose_sequence_length.ipynb
