@@ -5,6 +5,7 @@
 .pth
 .docx
 .zip
+.npy
 
 __pycache__/
 .vscode/
